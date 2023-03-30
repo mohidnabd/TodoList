@@ -1,3 +1,11 @@
+https://github.com/mohidnabd/TodoList.git
+
+npm install -g json-server
+json-server --watch data.json
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
